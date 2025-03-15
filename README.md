@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm G.A.Bharadwaj! 👋
 
-<!--
-**yourstrulybharadwaj/yourstrulybharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student passionate about software development, data analysis, and open-source contributions. I enjoy building projects that solve real-world problems and learning new technologies.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Programming Languages:** Python, Java, JavaScript
+- **Web Development:** HTML, CSS, React, Node.js
+- **Tools:** Git, VS Code, MongoDB, SQL
+- **Other Skills:** Data Analysis, Debugging, Agile Methodology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+- LinkedIn:https://www.linkedin.com/in/g-a-bharadwaj-079628289/
+- Email: ganjaneyabharadwaj@gmail.com
+
+## 🌱 What I'm Currently Learning
+- Advanced JavaScript and React
+- Data Structures and Algorithms
+- Cloud Computing with AWS
